@@ -2,12 +2,13 @@
 <html>
  <head>
  	<link rel="stylesheet" href="style.css"/>
+	 <img src="SOFT.png" width="350px"height="300px"/>
  </head>
  <body>	 
    
  <center><h1 style="color:crimson">SOFT TECH KIRAN(YT CREATOR) </h1></center>
 	 <center><p ><a style="color:chartreuse">SUBSCRIBERS 150</a></p></center>
-        <img src="SOFT.png" width="350px"height="300px"></image>
+        
         
       
      
