@@ -2,7 +2,7 @@
 <html>
  <head>
  	<link rel="stylesheet" href="style.css"/>
-	 <img src="SOFT.png" width="350px"height="300px"/>
+	
  </head>
  <body>	 
    
