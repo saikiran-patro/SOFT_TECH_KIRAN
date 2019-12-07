@@ -35,6 +35,7 @@
  	<li>youtube</li>
  	<li>Netflix etc.. are built using python</li>
  </ul> 
+ <p><strong><em>video link:</em></strong></p>
  <a href="https://www.youtube.com/embed/6El73ggMygc" target="blank_page">click here</a>
 <li style="color:orange">Android OS explained!!Stock OS vs Custom OS</li>
 	
