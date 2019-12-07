@@ -66,8 +66,7 @@
 
    <li style="color:orange;">What is USB KILLER?</li>
     <p>In this video i gave an explanation on <a style="color:red; ">USB KILLER.</a>How it works internally?</p>
-     <p style="color:white"><strong><em>video link:</em></strong></p>
-      <a href="https://www.youtube.com/watch?v=l-O0aOMhzsQ&t=7s target="blank_page">click here</a>
+    
  
    <li style="color: orange;">How to speed up Android phones?</li>
       <p>In this video i told about how to speed up android phones by simply enabling developer options.</p>
