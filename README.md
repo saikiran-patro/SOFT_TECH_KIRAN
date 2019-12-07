@@ -67,7 +67,7 @@
    <li style="color:orange;">What is USB KILLER?</li>
     <p>In this video i gave an explanation on <a style="color:red; ">USB KILLER.</a>How it works internally?</p>
      <p style="color:white"><strong><em>video link:</em></strong></p>
- <a href="https://www.youtube.com/watch?v=l-O0aOMhzsQ&t=7s target="blank_page">click here</a>
+      <a href="https://www.youtube.com/watch?v=l-O0aOMhzsQ&t=7s target="blank_page">click here</a>
  
    <li style="color: orange;">How to speed up Android phones?</li>
       <p>In this video i told about how to speed up android phones by simply enabling developer options.</p>
@@ -87,5 +87,5 @@
       
 <h3> 
 	DESIGNED BY SAI KIRAN PATRO</h3>
-<p>ALL THE VIDEOS ARE AVAILABLE ON THIS CHANNEL <a href="https://www.youtube.com/results?search_query=soft+tech+kiran" >clickhere</a></p>
+<p>ALL THE VIDEOS ARE AVAILABLE ON THIS CHANNEL <a href="https://www.youtube.com/channel/UCPv9XuCE1Cho5QDYBcqWphA" target="blank_page" >clickhere</a></p>
  </body>
