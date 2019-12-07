@@ -18,12 +18,16 @@
     <li style="color: orange">MIUI 11 Features on Redmi 5a -A minor upgrade!!</li>
     
    <p> The new version of miui user interface has been rolled out by xiaomi to couple of devices .I got the update for my xiaomi redmi 5a which is one of the most sold smart phone under budget category .I checked out what's new in this <a style="color: red;text-decoration:none">MIUI 11.</a>In this video i explained some cool and intresting features of MIUI 11 on Redmi 5a.</p>
-    <li style="color: orange">MI basic earphones full review</li>
-   
-   <p>In this video i gave my full review on this Mi basic earphones under bugdet segment .I talked about the pros and cons of this product do check out!!.</p>
-   <p style="color:white"><strong><em>video link:</em></strong></p>
+    <p style="color:white"><strong><em>video link:</em></strong></p>
  <a href="https://www.youtube.com/watch?v=7Kc20-uaO9s" target="blank_page">click here</a>
-    <li style="color:orange">CRO and its applications</li>
+    
+   <li style="color: orange">MI basic earphones full review</li>
+   
+  <p>In this video i gave my full review on this Mi basic earphones under bugdet segment .I talked about the pros and cons of this product do check out!!.</p>
+  <p style="color:white"><strong><em>video link:</em></strong></p>
+ <a href="https://www.youtube.com/watch?v=nW8y1cVssWc&t=1s" target="blank_page">click here</a>
+  
+   <li style="color:orange">CRO and its applications</li>
    
    <p>CRO has very important applications in real practice .In this video i explained everything about cro operation and its application.</p>
     
@@ -38,7 +42,7 @@
  	<li>youtube</li>
  	<li>Netflix etc.. are built using python</li>
  </ul> 
- <p><strong><em>video link:</em></strong></p>
+ <p style="color:white"><strong><em>video link:</em></strong></p>
  <a href="https://www.youtube.com/embed/6El73ggMygc" target="blank_page">click here</a>
  
 <li style="color:orange">Android OS explained!!Stock OS vs Custom OS</li>
