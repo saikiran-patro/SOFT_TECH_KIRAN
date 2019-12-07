@@ -34,8 +34,8 @@
  	<li>dropbox</li>
  	<li>youtube</li>
  	<li>Netflix etc.. are built using python</li>
- </ul>   
-
+ </ul> 
+ <a href="https://www.youtube.com/embed/6El73ggMygc" target="blank_page">click here</a>
 <li style="color:orange">Android OS explained!!Stock OS vs Custom OS</li>
 	
 <p>In this video i explained about  <a style="color:red;text-decoration:underline;">OPERATING SYSTEMS </a> specificaly android OS which is mostly used across the globe.I discussed about <a style="color:red; text-decoration: underline;">Stock OS</a> and <a style="color:red; text-decoration: underline;">custom OS.</a>I talked about the merits and demerits of stock OS and Custom OS and also explained some features of few custom ROMs.</p>
