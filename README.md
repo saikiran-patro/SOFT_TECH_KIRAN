@@ -7,7 +7,7 @@
  <body>	 
    
  <center><h1 style="color:crimson">SOFT TECH KIRAN(YT CREATOR) </h1></center>
-	 <center><p ><a style="color:chartreuse">SUBSCRIBERS 150</a></p></center>
+	 <center><p ><a style="color:chartreuse">SUBSCRIBERS 151</a></p></center>
         
         
       
@@ -35,8 +35,7 @@
  	<li>youtube</li>
  	<li>Netflix etc.. are built using python</li>
  </ul>   
- <iframe width="500" height="300" src="https://www.youtube.com/embed/6El73ggMygc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
-    
+
 <li style="color:orange">Android OS explained!!Stock OS vs Custom OS</li>
 	
 <p>In this video i explained about  <a style="color:red;text-decoration:underline;">OPERATING SYSTEMS </a> specificaly android OS which is mostly used across the globe.I discussed about <a style="color:red; text-decoration: underline;">Stock OS</a> and <a style="color:red; text-decoration: underline;">custom OS.</a>I talked about the merits and demerits of stock OS and Custom OS and also explained some features of few custom ROMs.</p>
