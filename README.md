@@ -35,6 +35,7 @@
  	<li>youtube</li>
  	<li>Netflix etc.. are built using python</li>
  </ul>   
+ <iframe width="500" height="300" src="https://www.youtube.com/embed/6El73ggMygc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
     
 <li style="color:orange">Android OS explained!!Stock OS vs Custom OS</li>
 	
@@ -47,6 +48,7 @@
    <p>In this video i did unboxing of samsung galaxy tab A which is very expensive and the specifications are not up to the mark at that price segment.click below to watch the unboxing video...</p>
     <li style="color:orange;">What is USB KILLER?</li>
     <p>In this video i gave an explanation on <a style="color:red; ">USB KILLER.</a>How it works internally?</p>
+    
  
    <li style="color: orange;">How to speed up Android phones?</li>
       <p>In this video i told about how to speed up android phones by simply enabling developer options.</p>
