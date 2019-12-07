@@ -26,7 +26,7 @@
    <p>CRO has very important applications in real practice .In this video i explained everything about cro operation and its application.</p>
     
  <li style="color:orange">python and its applications</li>
- <img src="IMG/2019-08-24_23-29-47.jpg"width="150px"height="150"/>
+ <img src="2019-08-24_23-29-47.jpg"width="150px"height="150"/>
 	
  <p >In this video i explained about the most popular language buzzing in the field of technology.Python is the top most paid programming language and has plenty of applications build on it.one of the important application is machine learning and artificial intelligence.you can also get into web devlopment.<br/></p><br/>
  <ul>
