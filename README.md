@@ -15,11 +15,16 @@
      
 <h2 style="color:blue">list of videos </h2>
 <ol>
-    <li style="color: orange">MIUI 11 Features on Redmi 5a -A minor upgrade!!</li>
+   <li style="color:orange">Let's talk about image processing...Asus 12mp gcam vs 48mp redmi note 7 pro</li>
+	<p>Hey guys!<br/>In this video i gave a brief introduction to <a color="white;"/>IMAGE PROCESSING which is a one of the important factor for taking better pictures unfortunately the brands are not focusing on devlopment of software rarther  they are just increasing the image sensor which actually used to take sharp images not quality which depends on image processing.so in this video i compared some samples which are taken with a 48mp CMOS sensor vs 12mp CMOS sensor (google camera).</p>
+	<p style="color:white"><strong><em>video link:</em></strong></p>
+ <a href="https://www.youtube.com/watch?v=hfe65wV-Lps" target="blank_page" >click here</a>
+	
+   <li style="color: orange">MIUI 11 Features on Redmi 5a -A minor upgrade!!</li>
     
    <p> The new version of miui user interface has been rolled out by xiaomi to couple of devices .I got the update for my xiaomi redmi 5a which is one of the most sold smart phone under budget category .I checked out what's new in this <a style="color: red;text-decoration:none">MIUI 11.</a>In this video i explained some cool and intresting features of MIUI 11 on Redmi 5a.</p>
     <p style="color:white"><strong><em>video link:</em></strong></p>
- <a href="https://www.youtube.com/watch?v=7Kc20-uaO9s" target="blank_page">click here</a>
+ <a href="https://www.youtube.com/watch?v=7Kc20-uaO9s" target="blank_page" >click here</a>
     
    <li style="color: orange">MI basic earphones full review</li>
    
