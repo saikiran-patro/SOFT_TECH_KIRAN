@@ -16,7 +16,7 @@
 <h2 style="color:blue">list of videos </h2>
 <ol>
    <li style="color:orange">Let's talk about image processing...Asus 12mp gcam vs 48mp redmi note 7 pro</li>
-	<p>Hey guys!<br/>In this video i gave a brief introduction to <a style="color:white; text-decoration:underline"/>IMAGE PROCESSING which is a one of the important factor for taking better pictures unfortunately the brands are not focusing on devlopment of software rarther  they are just increasing the image sensor which actually used to take sharp images not quality images which depends on image processing.so in this video i compared some samples which are taken with a 48mp CMOS sensor vs 12mp CMOS sensor (google camera).</p>
+	<p>Hey guys!<br/>In this video i gave a brief introduction to <a style="color:white; text-decoration:underline">IMAGE PROCESSING</a> which is a one of the important factor for taking better pictures unfortunately the brands are not focusing on devlopment of software rarther  they are just increasing the image sensor which actually used to take sharp images not quality images which depends on image processing.so in this video i compared some samples which are taken with a 48mp CMOS sensor vs 12mp CMOS sensor (google camera).</p>
 	<p style="color:white"><strong><em>video link:</em></strong></p>
  <a href="https://www.youtube.com/watch?v=hfe65wV-Lps" target="blank_page" >click here</a>
 	
