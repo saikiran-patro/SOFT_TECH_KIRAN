@@ -6,7 +6,7 @@
  </head>
  <body>	 
    
- <center><h1 style="color:crimson">SOFT TECH KIRAN(YT CREATOR) </h1></center>
+ <center><h1 style="color:crimson">TECH TRONIX </h1></center>
 	 <center><p ><a style="color:chartreuse">SUBSCRIBERS 164</a></p></center>
         
         
