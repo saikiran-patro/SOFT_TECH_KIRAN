@@ -1,23 +1,23 @@
 body
  		{
- 			background:black;
+ 			background:slategray;
  		}
  		div
  		{
  		  	
           margin-left:400px;
           margin-right:300px; 
-          color:white;
+          color:violet;
  		}
  		p,li{
  			font-size: 20px;
- 			color:yellow;
+ 			color:black;
  		}
  		h3
  		{
           
 
-            color:cyan;
+            color:red;
  			font-size: 30px;
  			
  		}
