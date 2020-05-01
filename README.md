@@ -6,14 +6,14 @@
  </head>
  <body>	 
    
- <center><h1 style="color:crimson">SOFT TECH KIRAN </h1></center>
-	 <center><p ><a style="color:chartreuse">SUBSCRIBERS 172</a></p></center>
+ <center><h1 style="color:white">SOFT TECH KIRAN </h1></center>
+	 <center><p ><a style="color:gold">SUBSCRIBERS 172</a></p></center>
         
         
       
      
      
-<h2 style="color:blue">list of videos </h2>
+<h2 style="color:light blue">list of videos </h2>
 <ol>
    <li style="color:orange">HUMAN FALL DETECTION SYSTEM</li>
 	<p>Hey guys!!
