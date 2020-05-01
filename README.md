@@ -98,6 +98,6 @@ During the time of fall obviously as we all know their will be change in acceler
 
       
 <h3> 
-	DESIGNED BY SAI KIRAN PATRO</h3>
+	DESIGNED BY SK</h3>
 <p>ALL THE VIDEOS ARE AVAILABLE ON THIS CHANNEL <a href="https://www.youtube.com/channel/UCPv9XuCE1Cho5QDYBcqWphA" target="blank_page" >clickhere</a></p>
  </body>
